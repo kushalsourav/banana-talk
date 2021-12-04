@@ -41,3 +41,17 @@ textarea {
 .txt {
   margin: 10px;
 }
+
+.first {
+  font-family: cursive;
+  font-size: 20px;
+  margin: 20px 0;
+  text-transform: uppercase;
+}
+
+.second {
+  width: 500px;
+  font: 18px;
+  margin: 10px auto;
+  text-align: center;
+}
